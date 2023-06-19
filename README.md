@@ -14,9 +14,9 @@ https://trahe.eu
 
 
 ## Acknowledgments
-# RossMorrison for the inspiration https://gitlab.cecs.pdx.edu/ros25/professional-portfolio
-# yew.rs for the framework https://yew.rs/
-# rust for the language https://www.rust-lang.org/
+RossMorrison for the inspiration https://gitlab.cecs.pdx.edu/ros25/professional-portfolio   
+yew.rs for the framework https://yew.rs/
+rust for the language https://www.rust-lang.org/  
 
 ## License
 This project is licensed under the MIT License

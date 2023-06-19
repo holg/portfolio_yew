@@ -16,6 +16,13 @@
 				"git_href": "https://github.com/holg/QLumEdit"
 			},
 			{
+				"img": "portfolio_yew.png",
+				"title": "this portfolio_yew (Rust/Yew WASM)",
+				"desc": "Click the image, to see the homepage. This is this portfolio site, which you see right now, Single WASM, content is seperated from JSON",
+				"home_href": "https://trahe.eu",
+				"git_href": "https://github.com/holg/portfolio_yew"
+			},
+			{
 				"img": "gldf.png",
 				"title": "GLDF-Edit (Rust/Yew WASM)",
 				"desc": "Click the image, to see the homepage. Based on the Rust Library, which describes the new GLDF Format. A Yew/Rust WASM version of basic functionality.😅 The Description above is the Link to my Github page",
@@ -39,11 +46,10 @@
 			{
 				"img": "maze-solver.gif",
 				"title": "Maze Solver in Python",
-				"desc": "Click the image, to see the Homepage. I am honoured to have done some small contribution to that nice project!.😀  The Description above is the Link to my Github page",
+				"desc": "Click the image, to see the Homepage. I am honoured to have done some small contribution to that nice project!.😀	The Description above is the Link to my Github page",
 				"home_href": "https://github.com/scharissis/maze-solver-python",
 				"git_href": "https://github.com/holg/maze-solver-python"
 			}
-
 		]
 	}
 }
