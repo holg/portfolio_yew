@@ -43,7 +43,10 @@ pub fn switch(routes: &Route) -> Html {
             <Projects/>
         },
         Route::NotFound => html! {
-            <h1>{ "404" }</h1>
+            <div>
+            <h1>{ " Error 404, file not found" }</h1>
+            <a href={"/" }><p>{ "Return to Home" }</p></a>
+            </div>
         },
     }
 }
