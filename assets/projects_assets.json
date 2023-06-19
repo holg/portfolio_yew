@@ -1,0 +1,18 @@
+{
+  "body": {
+    "projects": [
+      {
+        "img": "binary.jpg",
+        "title": "project 1",
+        "desc": "this is a little project I did. Click the image and see it on Github. Well, not really. But that's how it WOULD work!",
+        "href": "https://somewhereongithub.com"
+      },
+      {
+        "img": "code.jpg",
+        "title": "project 2",
+        "desc": "this is another little project I did. Click on the Image and see it on Github. Well, not really. But that's how it WOULD work!",
+        "href": "https://somewhereelseongithub.com"
+      }
+    ]
+  }
+}

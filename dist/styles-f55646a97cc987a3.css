@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,100&family=Roboto+Mono:wght@100&display=swap');
+
+.portfolio-container {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-image: linear-gradient(gray, white);
+    top: 0;
+    position: absolute;
+}
+
+.about-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(gray, white);
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+.resume-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(gray, white);
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+.cv-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(darkred, white);
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+.projects-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(blue, white);
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+.text-box {
+    border: 3px solid black;
+    justify-content: center;
+    width: min-content;
+}
+
+.name {
+    font-family: Roboto Mono;
+    text-align: center;
+}
+
+.credentials {
+    font-family: Exo;
+    text-align: center;
+}
+
+.selected-text {
+    text-align: center;
+}
+
+.image {
+    margin-top: 10px;
+    width: 600px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    object-fit: fill;
+    border: 5px solid black;
+}
+
+.avatar {
+    margin-top: 10px;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    object-fit: fill;
+    border: 5px solid black;
+    background-color: white;
+}
+
+.divider {
+    width: 80%;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 3em;
+    column-gap: 5em;
+    row-gap: 5em;
+    justify-content: center;
+    align-items: center;
+}
+
+.liststation {
+    display: block;
+    flex-direction: row;
+    align-items: center;
+}
+
+.station {
+    margin-left: 3mm;
+    font-family: Helvetica;
+}
+.card {
+    border: 3px solid black;
+    /*width: 50vh;*/
+    /*height: 50vh;*/
+    text-align: center;
+    flex-basis: 33%;
+    background-color: white;
+}
+
+.project-image {
+    margin-top: 2px;
+    width: 100%;
+    height: 100%;
+}
+
+.img-icon {
+    width: 50px;
+    height: 50px;
+    object-fit: fill;
+    border-right: 5px solid transparent;
+
+}
+.btn {
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+    z-index: 2;
+    background: transparent;
+    border: none !important;
+}
+
+.sidebar-open {
+    width: 20vh;
+    height: 100vh;
+    overflow: hidden;
+    border-right: 5px solid black;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.sidebar-btn {
+    width: 30px;
+    height: 30px;
+}
+
+.links {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto Mono";
+    row-gap: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.about-container {
+    font-family: "Roboto Mono";
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(gray, white);
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    line-break: strict;
+    align-items: center;
+    overflow: auto;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+.about-box {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.resume {
+    width: 50%;
+    height: 1000%;
+    border: 5px solid black;
+    margin-top: 5%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cv {
+    width: 50%;
+    height: 80%;
+    border: 5px solid black;
+    margin-top: 5%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projects {
+    width: 50%;
+    height: 80%;
+    border: 5px solid black;
+    margin-top: 5%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.project-title {
+    font-family: "Roboto Mono";
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.project-description {
+    font-family: "Roboto Mono";
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10mm;
+    padding-bottom: 10mm;
+}
+.divider {
+    width: 90%;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 90%;
+    height: 25%;
+    column-gap: 0.08em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    on-hover: color blue;
+}
+a:hover {
+    text-decoration: none;
+    color: lightsalmon;
+    background-color: aqua;
+}

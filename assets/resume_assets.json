@@ -1,0 +1,165 @@
+{
+	"body": {
+		"name": "Holger Trahe",
+		"phone": "+49 176 40134160",
+		"email": "trahe@mac.com",
+		"stations": [
+			{
+				"xpheader": "Relux Informatik GmbH, 07/2011-now",
+				"xpitem": "Developed relux.com, a web application for lighting design",
+				"xpitem2": "early Adaptor of ElasticSearch powered search",
+				"xpitem3": "powerfull Attribute System to enable complex search",
+				"edheader": "Used Django, Python, Rust, Webassembly, Flask, Postgres, Mysql, RabbitMq, flower, ElasticSearch, Solr, Redis, Celery",
+				"editem": "Fabric, Git, GitLab, Github, SVN, Jenkins, Jira, Confluence, Javascript, JQuery, AngularJS, Bootstrap, HTML, CSS, LESS, SASS, Compass, Grunt, Gulp, Bower, NPM, NodeJS, PHP, Nginx, Varnish, HAProxy, Git, SVN, Jenkins, Jira, Confluence, Selenium, PhantomJS, Javascript, JQuery, AngularJS, Bootstrap, HTML, CSS, LESS, SASS, Compass, Grunt, Gulp, Bower, NPM, NodeJSs, PHP Nginx, HAProxy",
+				"editem2": "Linux, Mac OS X, Windows, FreeBSD",
+				"prheader": "Playwright, Selenium, PhantomJS",
+				"pritem": "Docker, VirtualBox, Xen, Administration, Setup and DEvOps for the whole stack",
+				"pritem2": "REST APIs for the members, to enhance their own websites"
+			},
+			{
+				"xpheader": "Luxoworks GmbH, 12/2009-06/2011",
+				"xpitem": "Developed luxoworks.com, the first multi-vendor search-engine for lighting design",
+				"xpitem2": "Wrote Python scripts to enable Solr powered search",
+				"xpitem3": "Used Django, Python, Solr, Postgres, Mysql, RabbitMq, Celery, Nginx Load Balancing",
+				"edheader": "Export with the help of Py-OpenOffice, XML-RPC based Im- and Export",
+				"editem": "powerfull Attribute System to enable complex search",
+				"editem2": "Linux, Mac OS X, Windows, FreeBSD",
+				"prheader": "SOLR, Inspirations Portfolio and User-side Product Management",
+				"pritem": "PhantomJS, Py-Openoffice",
+				"pritem2": "PDF Creation with PhantomJS and Py-OpenOffice"
+			},
+			{
+				"xpheader": "Trahe Consult, 12/2009-06/2011",
+				"xpitem": "PHP Developing, mainly OXID eShop, xt-commerce and magenta",
+				"xpitem2": "Wrote OpenSource afterbuy API for OXID eShop, talk about this on the OXID Congress 2010",
+				"xpitem3": "Used Linux, Mysql, PHP, Apache, Nginx, Varnish, HAProxy",
+				"edheader": "Some APIs specifically for ios Apps",
+				"editem": "cahched searching",
+				"editem2": "Linux, Mac OS X, Windows, FreeBSD",
+				"prheader": "some other plugins, for Type Fonts and Shirt Design",
+				"pritem": "Typo3, Drupal and Wordpress / WooCommerce",
+				"pritem2": "ZEND Extensions"
+			},
+			{
+				"xpheader": "Artbey GmbH Lünen 05/2004-002/2008",
+				"xpitem": "PHP Developing, mainly xt-commerce and custom solutions",
+				"xpitem2": "Artbey-Collector, for indexing and intelligent Cart Management",
+				"xpitem3": "Used Linux, Mysql, PHP, Apache, Nginx, Varnish, HAProxy",
+				"edheader": "Some APIs specifically search and suggest",
+				"editem": "cached searching",
+				"editem2": "Linux, Mac OS X, Windows, FreeBSD",
+				"prheader": "some other plugins, for Type Fonts and Shirt Design",
+				"pritem": "Typo3, Drupal and Wordpress / WooCommerce",
+				"pritem2": "Frontend developing even in flash :D"
+			},
+			{
+				"xpheader": "Trahe Consult Kiel 08/2003-02/2004",
+				"xpitem": "several PHP Developing, custom websites",
+				"xpitem2": "www.braun/medical",
+				"xpitem3": "Used Linux, Mysql, PHP",
+				"edheader": "Perl and PHP",
+				"editem": "",
+				"editem2": "",
+				"prheader": "",
+				"pritem": "",
+				"pritem2": "Frontend developing even in flash :D"
+			},
+			{
+				"xpheader": "Sysmex Europe GmbH Hamburg 11/2002-08/2003",
+				"xpitem": "medical device Management",
+				"xpitem2": "Hard and Software Setup and Maintenance",
+				"xpitem3": "Blood-Lab Software",
+				"edheader": "Secure Remote Access",
+				"editem": "Device repository",
+				"editem2": "On-Site solutions as well in robotics",
+				"prheader": "Linux, Windows,",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "Links2u GmbH Hamburg 03/2001-09/2001",
+				"xpitem": "CRM Systeme for several industries",
+				"xpitem2": "SAP/ABAB Services",
+				"xpitem3": "genesys World Adaptions",
+				"edheader": "Secure Remote Access",
+				"editem": "for Linotype Hell, ported some of their software to Solaris, helped for Mac OS X (10.0) port",
+				"editem2": "Project Management for for GlobalGAP and Dummy Creation for the new Software",
+				"prheader": "Linux, Windows, Solaris",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "IKON+ GbR Kiel 01/2000-03/2001",
+				"xpitem": "Agency related development",
+				"xpitem2": "HTML/ JAvascript mini Sites",
+				"xpitem3": "",
+				"edheader": "",
+				"editem": "",
+				"editem2": "",
+				"prheader": "Linux, Windows, Mac OS X",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "LUFA ITL GmbH Kiel 02/1999-11/1999",
+				"xpitem": "Installation and Administration of DEC Alpha Unix Systems for Cartography",
+				"xpitem2": "Maintenance and running of custom tasks, to analyze data",
+				"xpitem3": "",
+				"edheader": "",
+				"editem": "",
+				"editem2": "",
+				"prheader": "Linux, Windows, Mac OS X",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "others, while studying 1990-1999",
+				"xpitem": "For StarDivision GmbH Hamburg (now Oracle Openoffice), several Perl Scripts, to enable the use of the StarOffice WebReader",
+				"xpitem2": "Maintenance and running of custom tasks, to analyze data",
+				"xpitem3": "AutoDesk AutoCAD, programming of AutoLisp",
+				"edheader": "and Turbo Pascal reading of Excel Sheets",
+				"editem": "to create automated Drawings for electrical plans of a pulp mill",
+				"editem2": "",
+				"prheader": "Linux, Windows NT, Windows 3.11, Mac OS 7.x",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "Informatics studies Kiel Christian Albrechts Universität 11/1997-01/2001",
+				"xpitem": "",
+				"xpitem2": "",
+				"xpitem3": "",
+				"edheader": "",
+				"editem": "",
+				"editem2": "",
+				"prheader": "DOS, Windows 3.11, Mac OS 7.x",
+				"pritem": "",
+				"pritem2": ""
+			},
+			{
+				"xpheader": "Medical studies Kiel Christian Albrechts Universität 11/1989-11/1997",
+				"xpitem": "1994 1. Staatsexamen",
+				"xpitem2": "1991 Physicum",
+				"xpitem3": "",
+				"edheader": "",
+				"editem": "",
+				"editem2": "RagTime Programming for mdical Data analysis",
+				"prheader": "DOS, Windows 3.11, Mac OS 7.x",
+				"pritem": "Hospital and study labs",
+				"pritem2": "Night Shifts in the Neurosurgical ICU of the University of Kiel"
+			},
+			{
+				"xpheader": "Paramedic (Rettungssanitäter) 06/1987-11/1989",
+				"xpitem": "First 18 months as Civil Service instead of Military Service",
+				"xpitem2": "later regular employed",
+				"xpitem3": "",
+				"edheader": "",
+				"editem": "",
+				"editem2": "",
+				"prheader": "Ambulance CArs and Hospital",
+				"pritem": "",
+				"pritem2": ""
+			}
+		]
+	}
+}

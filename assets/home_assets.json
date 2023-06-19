@@ -1,0 +1,49 @@
+{
+	"body": {
+		"projects": [
+			{
+				"img": "ios-marketing.png",
+				"title": "RoomPlanSimple",
+				"desc": "Click the image, to see the homepage. It is an Room Scanner for ios Lidar Devices and creates the USD 3d Model of the room you scan. I wanted to use the Lidar and have it on the AppStore.😀 The Description above is the Link to my Github page",
+				"home_href": "https://apps.apple.com/de/app/roomplansimple/id6449182214",
+				"git_href": "https://github.com/holg/RoomPlanExampleApp"
+			},
+			{
+				"img": "qlumedit-wasm.png",
+				"title": "QLumEditWeb (QT WebAssembly)",
+				"desc": "Click the image, to see the homepage. A complex C++ Application ported and adapted for Browser Usage. Needed some C++ redesign and adapting to websys standards.😅 The Description above is the Link to my Github page",
+				"home_href": "https://eulumdat.icu",
+				"git_href": "https://github.com/holg/QLumEdit"
+			},
+			{
+				"img": "gldf.png",
+				"title": "GLDF-Edit (Rust/Yew WASM)",
+				"desc": "Click the image, to see the homepage. Based on the Rust Library, which describes the new GLDF Format. A Yew/Rust WASM version of basic functionality.😅 The Description above is the Link to my Github page",
+				"home_href": "https://gldf.icu",
+				"git_href": "https://github.com/holg/gldf-rs-wasm"
+			},
+			{
+				"img": "gldf.png",
+				"title": "GLDF-Python Module (Rust/Python Module)",
+				"desc": "Click the image, to see the homepage. Based on the Rust Library, which describes the new GLDF Format, this is the python module of the code, to use it in python.😅 The Description above is the Link to my Github page",
+				"home_href": "https://gldf-editor.gldf.io",
+				"git_href": "https://github.com/holg/gldf-rs-python"
+			},
+			{
+				"img": "pillow.png",
+				"title": "Pillow The Python Image Library",
+				"desc": "Click the image, to see the Homepage. I am honored to have doen some small contribution to that great prject!.😀  The Description above is the Link to my Github page",
+				"home_href": "https://python-imaging.github.io",
+				"git_href": "https://github.com/holg/Pillow"
+			},
+			{
+				"img": "maze-solver.gif",
+				"title": "Maze Solver in Python",
+				"desc": "Click the image, to see the Homepage. I am honoured to have done some small contribution to that nice project!.😀  The Description above is the Link to my Github page",
+				"home_href": "https://github.com/scharissis/maze-solver-python",
+				"git_href": "https://github.com/holg/maze-solver-python"
+			}
+
+		]
+	}
+}
